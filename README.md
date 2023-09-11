@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ankita Yadav
-- 👀 I’m interested in Data Analysis and data visualization 
+- 👀 I’m interested in Data Analysis and Data Visualization 
 - 🌱 I’m currently honing my skills on various tools and technologies required to become successfull analyst
+- Tools- Microsoft Excel, SQL, Python, Microsoft Power BI
 - 📫 How to reach me - ankitaydv07@gmail.com   
 - Coonect with me - https://www.linkedin.com/in/ankitaydv14/
 
